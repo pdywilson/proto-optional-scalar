@@ -37,3 +37,5 @@ if the default value was set or
 if it was not set when evaluating `bar`.
 
 Run the project for further clarification :) 
+
+Note: For messages (within messages) this is not an issue as `hazzers` are provided.

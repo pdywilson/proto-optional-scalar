@@ -2,4 +2,9 @@ syntax = "proto3";
 
 message Foo {
     optional int32 bar = 1;
+    Baz baz = 2;
+}
+
+message Baz {
+    int32 baz = 1;
 }
